@@ -22,4 +22,4 @@ venv/
 #other
 check_env\ copy.py
 notebooks/01_onboarding_eda_teacher.ipynb
-notebooks/02_onboarding_eda_student.ipynb
+notebooks/02_onboarding_eda_teacher.ipynb
